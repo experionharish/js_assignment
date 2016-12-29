@@ -1,0 +1,92 @@
+body {
+	background-color: #334858;
+	width: 70%;
+	margin: auto;
+	color: maroon;
+	
+}
+
+.loginBox { 
+	width: 60%;
+	background-color: #cd595a ;
+	margin: 18% auto;
+  padding: 0px 0px 25px 0px;
+	text-align: center;
+	border-radius: 10px;
+	box-shadow: 7px 7px 5px #321;
+}
+
+.loginBox h2 {
+	margin: 0;
+	padding: 10px;
+	border-radius: 2px;
+	background-color: #dbc5b0;
+}
+
+.loginBox #loginStatus {
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.loginBox .loginForm {
+	width: 70%;
+	margin: 10px auto;
+	background-color: darksalmon;
+	border-radius: 5px;
+	padding: 5px 70px;
+}
+
+.loginBox .loginForm input[type="text"],[type="password"] {
+	width: 100%;
+	height: 35px;
+	border: none;
+}
+
+.loginBox .loginForm input[type="button"] {
+	width: 100%;
+	height: 45px;
+	border: none;
+	background-color: #7c0f24;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.loginForm table {
+	 border-spacing: 15px;
+	
+}
+
+
+.header {
+	background-color: #cd595a;
+	padding: 30px;
+}
+
+.header h1 {
+	
+	margin: 0;
+	width: 85%;
+	float:left;
+}
+
+button {
+	border: none;
+	width: 100px;
+	height: 35px;
+  background-color: lemonchiffon;
+	border-radius: 5px;
+	font-weight: bold;
+	color: maroon;
+}
+
+#content {
+	clear: both;
+	float: left;
+	background-color: darksalmon;
+}
+
+#content h3{
+	padding: 0 10px;
+}
